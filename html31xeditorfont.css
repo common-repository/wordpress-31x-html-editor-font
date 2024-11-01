@@ -1,0 +1,8 @@
+#wp-content-editor-container #content, #editorcontainer #content, #wp_mce_fullscreen {
+
+    font-family: 'Lucida Grande', Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+}
